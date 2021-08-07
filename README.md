@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rossanafmenezes
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m collaborating on the WooCommerce Android App
+- 💞️ I’m collaborating with the WooCommerce Android App
 
 
 <!---
